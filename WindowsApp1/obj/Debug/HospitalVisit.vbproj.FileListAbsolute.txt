@@ -1,0 +1,12 @@
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\HospitalVisit.vbprojResolveAssemblyReference.cache
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.MainForm.resources
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.RegistrationForm.resources
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\HospitalVisit.vbproj.GenerateResource.Cache
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\jerem\onedrive\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
